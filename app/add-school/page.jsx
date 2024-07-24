@@ -3,7 +3,7 @@
 import { useForm } from "react-hook-form";
 import axios from "axios";
 import { useState } from "react";
-import { Loading03Icon, PlusIcon } from "@/app/components/ui/icons";
+import { Loading03Icon, PlusIcon } from "../components/ui/icons";
 import { useRouter } from "next/navigation";
 
 export default function AddSchool() {
